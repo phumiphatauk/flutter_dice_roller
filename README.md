@@ -9,10 +9,6 @@ A simple and fun dice rolling app built with Flutter. Perfect for board games, d
 - 🎲 Realistic dice rolling animation
 - 📱 Cross-platform support (iOS, Android, Web, macOS, Windows, Linux)
 
-## 📸 Screenshots
-
-*Screenshots will be added here*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
